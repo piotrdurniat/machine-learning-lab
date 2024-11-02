@@ -1,0 +1,18 @@
+[submodule "l00-pca"]
+	path = l00-pca
+	url = git@github.com:piotrdurniat/ml-l0-principal-component-analysis.git
+[submodule "l01-pcb"]
+	path = l01-pcb
+	url = git@github.com:piotrdurniat/ml-l1-pcb.git
+[submodule "l02-knn"]
+	path = l02-knn
+	url = git@github.com:piotrdurniat/ml-l2-knn.git
+[submodule "l03-cart"]
+	path = l03-cart
+	url = git@github.com:piotrdurniat/ml-l3-classification-and-regression-trees.git
+[submodule "l04-clustering"]
+	path = l04-clustering
+	url = git@github.com:piotrdurniat/ml-l4-clustering.git
+[submodule "l05-ensamble-learning"]
+	path = l05-ensamble-learning
+	url = git@github.com:piotrdurniat/ml-l5-ensamble-learning.git
